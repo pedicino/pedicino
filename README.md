@@ -1,12 +1,10 @@
 
 ## Welcome
-
 <div align="center">
   <img src="" alt="banner" />
 </div>
 
 ## Stack
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo" />
@@ -25,8 +23,7 @@
 </div>
 
 ## Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedicino&show_icons=true&theme=tokyonight" alt="Pablo's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedicino&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedicino&show_icons=true&theme=github_dark&hide_border=true" width="48%" alt="Pablo's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedicino&theme=github_dark&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
